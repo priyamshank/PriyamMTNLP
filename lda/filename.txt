@@ -1,0 +1,4 @@
+0
+0.045*"mildew" + 0.033*"powderi" + 0.013*"fusarium" + 0.012*"downi"
+1
+0.068*"fusarium" + 0.014*"wheat" + 0.010*"resist" + 0.010*"wilt"

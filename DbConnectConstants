@@ -1,0 +1,4 @@
+DRIVER_NAME = org.postgresql.Driver
+CONNECTION_URL=jdbc:postgresql://localhost:5432/postgres
+DB_NAME=postgres
+DB_PASSWORD=Abcd1234

@@ -1,0 +1,1 @@
+@amhfarm stripe rust is the main culprit. Sometimes leaf rust and powdery mildew
